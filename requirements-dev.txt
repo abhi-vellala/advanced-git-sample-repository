@@ -4,3 +4,4 @@ numpy
 math
 scipy
 sklearn
+torch
